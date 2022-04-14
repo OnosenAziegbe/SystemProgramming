@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "DESKTOP-7J6CBI9",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/GWqfNwUn0RmWEikrCP3r9iDbkP7q9uHQeh7NKNPGQwoWatqbSE",
+  "gitHubUrl": "https://github.com/OnosenAziegbe/ci-cd-testing-gh-actions",
+  "workFolder": "deploy"
+}

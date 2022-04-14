@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "OnosenAziegbe/ci-cd-testing-gh-actions",
+  "pipelineDirectory": "ci-cd-testing-gh-actions",
+  "workspaceDirectory": "ci-cd-testing-gh-actions\\ci-cd-testing-gh-actions",
+  "repositories": {
+    "OnosenAziegbe/ci-cd-testing-gh-actions": {
+      "repositoryPath": "ci-cd-testing-gh-actions\\ci-cd-testing-gh-actions",
+      "lastRunOn": "04/14/2022 16:35:22 -04:00"
+    }
+  },
+  "lastRunOn": "04/14/2022 16:37:07 -04:00"
+}
